@@ -1,6 +1,24 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>这是我的个人博客</h1>
-</body>
+
+	<head>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="css/layui.css" />
+		<title>BDAP 大数据应用平台</title>
+		<script src="js/index.js"></script>
+		<script src="layui.js"></script>
+		<script>
+			layui.use(['layer', 'form'], function() {
+				var layer = layui.layer,
+					form = layui.form;
+				layer.msg('hello world');
+				//layer.alert('hello world');
+			});
+		</script>
+	</head>
+
+	<body>
+
+	</body>
+
 </html>
