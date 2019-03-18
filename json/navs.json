@@ -1,0 +1,218 @@
+{
+	"contentManagement": [
+		{
+			"title": "配置管理",
+			"icon": "&#xe716;",
+			"href": "",
+			"spread": false,
+			"children": [
+				{
+					"title": "配置基础信息",
+					"href": "page/log/baseinfo/baseInfo.html",
+					"spread": false
+				},
+				{
+					"title": "数据源配置",
+					"href": "page/log/datasource/dataSource.html",
+					"spread": false
+				}
+			]
+		},
+		{
+			"title": "SSH服务器管理",
+			"icon": "&#xe7ae;",
+			"href": "",
+			"spread": false,
+			"children": [
+				{
+					"title": "SSH服务器管理",
+					"href": "page/log/service/index.html",
+					"spread": false
+				}
+			]
+		},
+		{
+			"title": "配置文件审核",
+			"icon": "&#xe6b2;",
+			"href": "",
+			"spread": false,
+			"children": [
+				{
+					"title": "配置文件审核",
+					"href": "page/log/filecheck/checkInfo.html",
+					"spread": false
+				}
+			]
+		},
+		{
+			"title": "监控管理",
+			"icon": "&#xe665;",
+			"href": "page/img/images.html",
+			"spread": false
+		},
+		{
+			"title": "查询分析",
+			"icon": "&#xe615;",
+			"href": "page/img/images.html",
+			"spread": false
+		},
+		{
+			"title": "日志数据查看",
+			"icon": "&#xe716;",
+			"href": "",
+			"spread": false,
+			"children": [
+				{
+					"title": "日志表配置",
+					"href": "page/log/tableconfig/tableConfig.html",
+					"spread": false
+				},
+				{
+					"title": "日志表查询配置",
+					"href": "page/log/queryconfig/queryConfig.html",
+					"spread": false
+				},
+				{
+					"title": "日志数据查看",
+					"href": "page/log/log/index.html",
+					"spread": false
+				}
+			]
+		}
+
+	],
+	"memberCenter": [
+		{
+			"title": "用户中心",
+			"icon": "&#xe612;",
+			"href": "page/sys/user/userList.html",
+			"spread": false
+		},
+		{
+			"title": "会员等级",
+			"icon": "icon-vip",
+			"href": "page/user/userGrade.html",
+			"spread": false
+		}
+	],
+	"systemeSttings": [
+		{
+			"title": "系统基本参数",
+			"icon": "&#xe631;",
+			"href": "page/systemSetting/basicParameter.html",
+			"spread": false
+		},{
+			"title": "系统日志",
+			"icon": "icon-log",
+			"href": "page/systemSetting/logs.html",
+			"spread": false
+		},{
+			"title": "友情链接",
+			"icon": "&#xe64c;",
+			"href": "page/systemSetting/linkList.html",
+			"spread": false
+		},{
+			"title": "图标管理",
+			"icon": "&#xe857;",
+			"href": "page/systemSetting/icons.html",
+			"spread": false
+		}
+	],
+	"seraphApi": [
+		{
+			"title": "三级联动模块",
+			"icon": "icon-mokuai",
+			"href": "page/doc/addressDoc.html",
+			"spread": false
+		},{
+			"title": "bodyTab模块",
+			"icon": "icon-mokuai",
+			"href": "page/doc/bodyTabDoc.html",
+			"spread": false
+		},{
+			"title": "三级菜单",
+			"icon": "icon-mokuai",
+			"href": "page/doc/navDoc.html",
+			"spread": false
+		}
+	],
+	"sysmanager":[
+		{
+			"title": "URL管理",
+			"icon": "&#xe770;",
+			"href": "page/user/user.html",
+			"spread": false
+		},{
+			"title": "功能管理",
+			"icon": "&#xe770;",
+			"href": "page/user/user.html",
+			"spread": false
+		},{
+			"title": "菜单管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/menu/index.html",
+			"spread": false
+		},{
+			"title": "代码管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/codeType/index.html",
+			"spread": false
+		},{
+			"title": "日志管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/menu/index.html",
+			"spread": false
+		},{
+			"title": "公告管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/notice/index.html",
+			"spread": false
+		},{
+			"title": "在线用户监控",
+			"icon": "&#xe770;",
+			"href": "page/sys/userOnline/index.html",
+			"spread": false
+		}
+	],
+	"permissions": [
+		{
+			"title": "人员管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/user/index.html",
+			"spread": false
+		},{
+			"title": "角色管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/role/index.html",
+			"spread": false
+		},{
+			"title": "机构管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/org/index.html",
+			"spread": false
+		},{
+			"title": "授权管理",
+			"icon": "&#xe770;",
+			"href": "page/user/roleList.html",
+			"spread": false
+		},{
+			"title": "权限分配维护",
+			"icon": "&#xe770;",
+			"href": "page/user/roleList.html",
+			"spread": false
+		},{
+			"title": "分级规则管理",
+			"icon": "&#xe770;",
+			"href": "page/sys/resOrgRule/index.html",
+			"spread": false
+		},{
+			"title": "人员权限查询",
+			"icon": "&#xe770;",
+			"href": "page/user/roleList.html",
+			"spread": false
+		}
+	]
+	
+}
+
+

@@ -1,0 +1,21 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1545718914645'); /* IE9*/
+  src: url('iconfont.eot?t=1545718914645#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAASkAAsAAAAABvgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFY8rkgsY21hcAAAAYAAAABLAAABcOdgtlJnbHlmAAABzAAAAO0AAAEA6o2Wo2hlYWQAAAK8AAAALwAAADYTsB8BaGhlYQAAAuwAAAAeAAAAJAffA4dobXR4AAADDAAAAAgAAAAICAQAAGxvY2EAAAMUAAAABgAAAAYAgAAAbWF4cAAAAxwAAAAgAAAAIAERAF9uYW1lAAADPAAAAUUAAAJtPlT+fXBvc3QAAASEAAAAIAAAADHF55N0eJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWKcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGByeWTyzYG7438AQw9zA0AAUZgTJAQDmiwxVeJxjYGBgZWBgYAZiHSBmYWBgDGFgZAABP6AoI1icmYELLM7CoARWwwISf2bx/z+MBPJZwCQDIxvDKOABkzJQHjisIJiBEQCx2gpJAHicY2BlYPjfwMLI3MAgxaDNYM7gyhDEwMAoKMKmpKYuqCioKMcowqasqKRmKmhiZqxoJMZoJMckwsekpMdkYsdkzsfILscobsdorsfIbmbOxs4mIi4mrqauZsLIpqTPqGZiZiTPKCbCwiAiJ8z4p4cphF9EhP9vJ4hk3sUv8k9Hx89GUdHGL8LfGkTpFExjYppWUDCVmXnqDi4uDQUrK2Vdfl5XJkdhQ+GNQqpGwhuEmGMh+plC/vQwCstBTRL5tx9kDMI0Q5g5BYVTYzk5+BRs5tkq83Lxeez5+1pIaIOwkarQRmFDBgYAIkAzjQAAAHicY2BkYGAA4h4fg/nx/DZfGbhZGEDghvvbJgT9v4GFkbkByOVgYAKJAgAoIAqFAHicY2BkYGBu+N/AEMPCwgAELIwMjAyogAkAR38CcAAABAAAAAQEAAAAAAAAAIAAAAABAAAAAgBTAAUAAAAAAAIAAAAKAAoAAAD/AAAAAAAAeJxlj01OwzAQhV/6B6QSqqhgh+QFYgEo/RGrblhUavdddN+mTpsqiSPHrdQDcB6OwAk4AtyAO/BIJ5s2lsffvHljTwDc4Acejt8t95E9XDI7cg0XuBeuU38QbpBfhJto41W4Rf1N2MczpsJtdGF5g9e4YvaEd2EPHXwI13CNT+E69S/hBvlbuIk7/Aq30PHqwj7mXle4jUcv9sdWL5xeqeVBxaHJIpM5v4KZXu+Sha3S6pxrW8QmU4OgX0lTnWlb3VPs10PnIhVZk6oJqzpJjMqt2erQBRvn8lGvF4kehCblWGP+tsYCjnEFhSUOjDFCGGSIyujoO1Vm9K+xQ8Jee1Y9zed0WxTU/3OFAQL0z1xTurLSeTpPgT1fG1J1dCtuy56UNJFezUkSskJe1rZUQuoBNmVXjhF6XNGJPyhnSP8ACVpuyAAAAHicY2BigAAuBuyAiZGJkZmBPTkjMTsxz5CBAQAS9wK0') format('woff'),
+  url('iconfont.ttf?t=1545718914645') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1545718914645#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:20px;
+  font-style:normal;
+  color: #3BA1E8;
+	margin-left: 10px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chakan1:before { content: "\e638"; }
+
